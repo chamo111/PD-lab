@@ -1,1 +1,3 @@
 # PD-lab
+
+The project focuses on developing a Real-Time Face Attendance Marking System for educational institutions, using facial recognition technology to automate attendance tracking. By leveraging Python, OpenCV, and Haar Cascade for face detection and recognition, the system eliminates manual attendance marking, reducing errors and time consumption. It enhances efficiency by automating the process and minimizing contact between students and professors, particularly valuable in pandemic situations. The system involves phases such as data gathering, training the recognizer, recognizing faces, and marking attendance, offering a streamlined and accurate solution to manage classroom attendance.
